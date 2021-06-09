@@ -69,3 +69,5 @@ From the result of the t.test it shows that the p-vaule is very small so I can r
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+Using the Veggy data I saw that we had a numerical~cat problem so I uploaded the numerical~cat file and made the appropriate changes needed. Based on the results of the numercial results and t.test we can conclude there is a difference between the average VitC in c39 and c52 and can reject the null hypothesis. 
